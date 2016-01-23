@@ -1,13 +1,8 @@
 {
-  "name": "liven-room",
+  "name": "angular-typescript-node-express-template",
   "version": "0.0.1",
-  "description":"Vote Box, Live'n Room backend",
   "private":true,
   "main": "dist/server.js",
-  "repository": {
-    "type": "git",
-    "url": "git@bitbucket.org:johnedvard/liven-room.git"
-  },
   "dependencies":{
     "angular2": "~2.0.0-beta.1",
     "es6-promise": "^3.0.2",
