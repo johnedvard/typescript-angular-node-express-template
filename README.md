@@ -4,7 +4,7 @@ Template code for the repository name
 ## Get started
 First we need some global modules:
 
-`npm install --global typescript gulp tsd npm-cli`
+`npm install --global typescript gulp tsd`
 
 Then we need to install the node modules:
 `npm install`
