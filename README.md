@@ -1,4 +1,5 @@
-# About
+##About
+Template code for the repository name
 
 ## Get started
 First we need some global modules:
