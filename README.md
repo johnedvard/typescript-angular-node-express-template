@@ -1,5 +1,7 @@
 ##About
-Template code for the repository name
+Template code for an angular-typescript-node-express app
+Most of the help came from this blogpost: http://blog.edenmsg.com/angular2-typescript-gulp-and-expressjs/
+Also some help gotten from the angular site: https://angular.io/docs/ts/latest/quickstart.html
 
 ## Get started
 First we need some global modules:
